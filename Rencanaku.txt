@@ -1,4 +1,4 @@
 Membuat buku "Belajar Pemrograman Java dengan Eclipse" disertai kode sumber
-Membuat buku "Belajar Pemrograman Situs dengan Java, Maven dan Spring" disertai kode sumber
+Membuat buku "Belajar Pemrograman Web dengan Java, Eclipse, Maven dan Spring"
 Membuat situs baru "AlunAlun.com" 
 Menjual buku pemrograman di atas di situs "AlunAlun.com" 
