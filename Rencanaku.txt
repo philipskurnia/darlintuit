@@ -1,6 +1,7 @@
-Menyempurnakan darlintuit.com sambil membuat buku berikut
+Menyempurnakan darlintuit.com dan belajar PHP, sambil membuat buku berikut
 Membuat buku "Aplikasi Desktop dengan Java"
 Membuat buku "Belajar Pemrograman Web dengan Java"
 Membuat situs baru AlunAlun atau Alaska
 Menjual buku pemrograman di atas di situs baru
 Memisah darlintuit dengan situs baru
+Belajar pemrograman Android dengan Java
