@@ -1,5 +1,5 @@
 Menyempurnakan darlintuit.com, sambil...
-Membuat buku "Dasar-dasar Pemrograman Web"
+Membuat buku "Pemrograman Web dengan PHP dan Java"
 Membuat buku "Aplikasi Desktop dengan Java"
 Membuat buku "Belajar Pemrograman Web dengan Java"
 Menjual buku pemrograman di atas di darlintuit.com
