@@ -1,4 +1,5 @@
 Menyempurnakan darlintuit.com, sambil...
+Menyelesaikan/menyempurnakan aplikasi akuntansi dengan Java
 Membuat buku "Dasar-dasar Pemrograman Web"
 Membuat buku "Aplikasi Desktop dengan Java"
 Membuat buku "Belajar Pemrograman Web dengan Java"
